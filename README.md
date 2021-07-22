@@ -1,5 +1,5 @@
 ## Project m1: Remote backup
-Authors: Mega Gianluca, Panduri Santa, Pappadà Matteo
+Authors: Mega Gianluca (s280109@studenti.polito.it), Panduri Santa (s280155@studenti.polito.it), Pappadà Matteo (s278078@studenti.polito.it)
 
 
 ## Contents
