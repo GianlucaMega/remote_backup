@@ -1,0 +1,14 @@
+/Client/cmake-build-debug/
+/Server/.idea/
+/Server/cmake-build-debug/
+/.idea
+Server/Root/Alice/*
+!Server/Root/Alice/.keep
+Server/Root/Bob/*
+!Server/Root/Bob/.keep
+Server/Root/Charlie/*
+!Server/Root/Charlie/.keep
+Server/Root/David/*
+!Server/Root/David/.keep
+
+
